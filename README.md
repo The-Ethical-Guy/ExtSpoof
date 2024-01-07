@@ -9,20 +9,16 @@
 
 
 extension spoofer (apk to jpg, exe to jpg , etc) you can spoof any extension you want
+<br>
+with it you can hide your malware and make advanced phishing attacks
 
 
  
 # Social media links
 the <a href="https://www.youtube.com/@TheEthicalGuy">youtube channel</a> and my <a href="https://t.me/TheEthicalGuy">telegram channel</a>
 
- 
-# What Evan do ?
-She's taking advantage of chatgpt's intelligence and using this intelligence without any ethics, and this is what makes her the best choice to be the assistant of any hacker or pentesters
-<br>
-With she's help you can literally do anything, you can create tools, trojans, phishing scripts, etc
 
-
-# Evan how to install
+# how to install and run
 
 ```
 apt update
@@ -31,32 +27,19 @@ apt update
 apt install git
 ```
 ```
-git clone https://github.com/The-Ethical-Guy/Evan.git
+git clone https://github.com/The-Ethical-Guy/ExtSpoof.git
 ```
 ```
-cd Evan
+cd ExtSpoof
 ```
 ```
-chmod 777 setup.sh
+pip install -r requirements.txt
 ```
 ```
-bash setup.sh
+python3 main.py
 ```
 
-# How to run the tool
-to get all tool options
-```
-evan -h 
-```
-to run it
-```
-evan -api <chatgpt-api-key>
-```
-to update it
-```
-evan -update
-```
 # Screenshot
-![](https://files.catbox.moe/5dsutp.png)
+![](https://files.catbox.moe/zvxeie.png)
 
 
