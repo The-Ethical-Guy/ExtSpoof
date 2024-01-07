@@ -8,10 +8,7 @@
 ![](https://img.shields.io/badge/licens-GPLV3-white)
 
 
-
-<br>
-
-Evan is the best AI chat bot for hackers and pentesters, it's a cracking bot that cracks the AI ethics and make it can do whatever you want, it made to crack ChatGPT and will be another chat models soon as possible
+extension spoofer (apk to jpg, exe to jpg , etc) you can spoof any extension you want
 
 
  
