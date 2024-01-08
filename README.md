@@ -43,6 +43,6 @@ python3 main.py
 
 # Demo
 
-![Demo](https://files.catbox.moe/205kdy.mp4)
+![](https://files.catbox.moe/205kdy.mp4)
 
 
